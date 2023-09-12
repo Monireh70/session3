@@ -1,4 +1,4 @@
-const weekDaysNumber: number = 10;
+const weekDaysNumber: number = 4;
 
 switch (weekDaysNumber) {
   case 0:
